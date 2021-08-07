@@ -1,3 +1,3 @@
-# e2elogistics
+# e2ecommerce
 
-End-to-end logistics automation 
+End-to-end logistics automation for supply chain ops
